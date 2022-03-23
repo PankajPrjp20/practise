@@ -58,3 +58,4 @@ join_df = join_df.select("rawemail")
 
 
 join_df.write.csv("{}/file_join/{}".format(outputpath,today),header=True,mode="overwrite")
+join_df.write.csv("{}/file_join/{}".format(outputpath,today),header=True,mode="overwrite")
