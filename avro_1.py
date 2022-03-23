@@ -77,35 +77,3 @@
 # print(c)
 
 
-{
-  'uid': {
-    'id': 'zzmL_Cwl9ijYl-PsQm6sx07UPG5CG8j_6Ahezw',
-    'member_id': 13191
-  },
-  'segments': [
-    {
-      'id': 12359,
-      'code': '',
-      'member_id': 0,
-      'expiration': 0,
-      'timestamp': 0,
-      'value': 0
-    },
-    {
-      'id': 12376,
-      'code': '',
-      'member_id': 0,
-      'expiration': 0,
-      'timestamp': 0,
-      'value': 0
-    },
-    {
-      'id': 12366,
-      'code': '',
-      'member_id': 0,
-      'expiration': 0,
-      'timestamp': 0,
-      'value': 0
-    }
-  ]
-}
